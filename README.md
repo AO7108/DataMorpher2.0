@@ -1,7 +1,7 @@
 # DataMorpher 2.0
 <!-- Hero Image: replace src with your banner; remove width or adjust as needed -->
 <p align="center">
-  <img src="c:\AI\DataMorpher2.0\my-banner.png" alt="DataMorpher 2.0" width="820" />
+  <img src="my-banner.png" alt="DataMorpher 2.0" width="820" />
 </p>
 
 <!-- Badges: update as desired -->
