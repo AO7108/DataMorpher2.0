@@ -1,0 +1,17 @@
+# DataMorpher 2.0 Configuration File
+# This file manages all settings for the application.
+
+paths:
+  outputs: "outputs"
+  data_raw: "data/raw"
+  cache: ".cache"
+
+# ... your paths section is here ...
+
+llm:
+  # IMPORTANT: You MUST change this to the real path of your model file.
+  model_path: "C:/AI/DataMorpher2.0/models/phi-3-mini-4k-instruct.Q4_K_M.gguf"
+  n_ctx: 4096
+  temperature: 0.1
+  max_tokens: 1024
+  n_threads: 4

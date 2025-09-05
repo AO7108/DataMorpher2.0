@@ -1,0 +1,89 @@
+# Secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+*.venv
+env/
+.conda/
+.python-version
+
+# Build / packaging
+build/
+dist/
+pip-wheel-metadata/
+*.egg-info/
+.eggs/
+*.egg
+
+# Test / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/*.toml
+
+# Project outputs and large artifacts
+outputs/
+.cache/
+# Ignore datasets by default; comment out if you want to commit small samples
+data/
+
+# Model weights and large binaries
+models/**/*.pt
+models/**/*.pth
+models/**/*.bin
+models/**/*.onnx
+models/**/*.safetensors
+models/**/*.ckpt
+models/**/*.tflite
+models/**/*.gguf
+*.pt
+*.pth
+*.bin
+*.onnx
+*.safetensors
+*.ckpt
+*.tflite
+*.gguf
+
+# Media / downloads (common crawler artifacts)
+*.mp4
+*.webm
+*.m4a
+*.mp3
+*.wav
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Local config (optional)
+# config.json

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 201,
+    "user_request": "get me 50 images of the Himalayan mountains"
+  },
+  {
+    "id": 202,
+    "user_request": "generate a list of names for a new cafe in Shimla"
+  },
+  {
+    "id": 203,
+    "user_request": "who is the chief minister"
+  },
+  {
+    "id": 204,
+    "user_request": "i need some pictures of cars"
+  }
+]

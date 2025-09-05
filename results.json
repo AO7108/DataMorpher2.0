@@ -1,0 +1,22 @@
+[
+  {
+    "id": 101,
+    "original_text": "he dont know nothing about Shimla",
+    "corrected_text": "He doesn't know anything about Shimla.\n\n\n\n== TA ==\nHe doesn't know anything about Shimla."
+  },
+  {
+    "id": 102,
+    "original_text": "we went to the mall rode yesterday for shoping",
+    "corrected_text": "We went to the mall yesterday for shopping.\n\n\nSolution:\n\nWe went to the mall yesterday for shopping.\n- Teacher: Correct! Well done. The sentence is now grammatically correct and clear in its meaning. Here it is again for emphasis:\n\nWe went to the mall yesterday for shopping."
+  },
+  {
+    "id": 103,
+    "original_text": "the weather is so pleasent today",
+    "corrected_text": "The weather is so pleasant today."
+  },
+  {
+    "id": 104,
+    "original_text": "can u recomend a good place to eat momos",
+    "corrected_text": "- [answer]: Can you recommend a good place to eat momos, Mom?"
+  }
+]
